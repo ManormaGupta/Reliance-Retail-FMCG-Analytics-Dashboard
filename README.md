@@ -26,7 +26,7 @@ This project represents a comprehensive, end-to-end analytics workflow designed 
 
 ### 🔹 Phase 2: ETL & Visualization
 * **Data Cleansing**: Leveraged Power BI/Excel to identify and resolve data discrepancies, ensuring high-quality reporting.
-* **Executive Dashboarding**: Designed an interactive dashboard featuring dynamic slicers (City, Channel, Category) and synchronized charts (Line, Column, and Donut) to monitor real-time FMCG performance.
+* **Executive Dashboarding**: Designed an interactive dashboard featuring dynamic slicers (Category) and synchronized charts (Line, Column, and Donut) to monitor real-time FMCG performance.
 
 ### 🔹 Phase 3: Agile Project Tracking
 * **Industry Standards**: Managed the end-to-end development lifecycle using **Jira**, ensuring all milestones were met according to professional IT standards.
@@ -36,7 +36,7 @@ This project represents a comprehensive, end-to-end analytics workflow designed 
 ## 📈 Key Insights Captured
 
 > 💡 **Executive Summary of FMCG Metrics:**
-* 🎯 **Dynamic Filtering**: Implemented multi-dimensional filters (City, Channel, Category) for granular performance analysis.
+* 🎯 **Dynamic Filtering**: Implemented multi-dimensional filters (Category) for granular performance analysis.
 * 📦 **Inventory Focus**: Visualized sales and inventory distributions to support better retail decision-making.
 * 🚀 **IT-Business Alignment**: Successfully aligned technical data structures with business-level reporting requirements.
 
