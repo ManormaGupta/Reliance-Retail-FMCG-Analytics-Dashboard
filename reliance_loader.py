@@ -19,7 +19,7 @@ with engine.connect() as conn:
     conn.commit()
     print("Database ready")
 
-engine = create_engine("mysql+pymysql://root:vaishumanu@localhost/reliance_retail_db")
+engine = create_engine("mysql+pymysql://root:...@localhost/reliance_retail_db")
 
 print(" Sending data to MySQL... Please wait...")
 df.to_sql(name='sales_data', con=engine, if_exists='replace', index=False)
