@@ -12,7 +12,7 @@ print(" Loading file...")
 df = pd.read_csv(csv_file)
 print(" File loaded successfully")
 
-engine = create_engine("mysql+pymysql://root:vaishumanu@localhost/")
+engine = create_engine("mysql+pymysql://root:...@localhost/")
 
 with engine.connect() as conn:
     conn.execute(text("CREATE DATABASE IF NOT EXISTS reliance_retail_db;"))
